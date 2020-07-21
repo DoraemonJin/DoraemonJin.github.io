@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: doraemonjinxin@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY JinX, 金金的博客, JinX, 金金, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://DoraemonJin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DoraemonJin.github.io.git" # you code repository
 
